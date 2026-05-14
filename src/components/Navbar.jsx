@@ -15,7 +15,7 @@ function Navbar() {
           <NavLink to="/" end>Home</NavLink>
           <NavLink to="/shop">Shop</NavLink>
           <NavLink to="/collections">Collections</NavLink>
-          <NavLink to="/orders">Orders</NavLink>git add .
+          <NavLink to="/orders">Orders</NavLink>
           <NavLink to="/about">About</NavLink>
           
         </div>
